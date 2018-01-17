@@ -44,8 +44,7 @@ public class GetGeoBlackList {
        } catch (IOException e) {
             e.printStackTrace();
         }
-        return GeoLocationList;
-        
+        return GeoLocationList;     
 	}  
 	
 	// Remove all " from line
